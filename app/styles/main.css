@@ -117,3 +117,7 @@ BASE
   display: inline-block;
   margin-right: 4em;
 }
+/* Padding on the mobile container */
+.featured-image {
+  background-size: cover;
+}
